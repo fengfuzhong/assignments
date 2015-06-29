@@ -132,6 +132,11 @@ namespace SRSDEMO.UI
             //模拟学生选课
             // Students drop/add courses.
 
+
+
+
+            
+
             Console.WriteLine("Student " + s1.Name +
                               " is attempting to enroll in " +
                               sec1.ToString());
